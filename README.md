@@ -1,1 +1,1 @@
-# metadata.json
+# chainbase.json
